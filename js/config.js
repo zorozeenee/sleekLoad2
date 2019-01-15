@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{youtube: "https://www.youtube.com/watch?v=LdbNPe0n8c8", name: "Duty & Honor"},
+	{ogg: "https://www.youtube.com/watch?v=LdbNPe0n8c8", name: "Duty & Honor"},
 ];
 
 // Random music order?
@@ -130,8 +130,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Content Pack is on our discord!",
-	"discord.gg/5Tu3SaE",
+	"Quests & Storyline",
+	"Blood, Glory & Taxes",
 	"There is no bullshit here, just pure medieval.",
 ];
 
@@ -150,7 +150,7 @@ var l_messagesFade = 1000;
 // Show errors inside Garry's Mod?
 // Can be useful for finding errors
 // 'true' or 'false'
-var l_showErrorsIngame = true;
+var l_showErrorsIngame = false;
 
 //==============================================================
 //========================== WARNING ===========================
