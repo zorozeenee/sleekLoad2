@@ -130,14 +130,14 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Glory & Conquest",
-	"Blood & Gore",
-	"Death & Taxes",
+	"Content Pack is on our discord!",
+	"discord.gg/5Tu3SaE",
+	"There is no bullshit here, just pure medieval.",
 ];
 
 // Random message order?
 // 'true' or 'false'
-var l_messagesRandom = true;
+var l_messagesRandom = false;
 
 // Delay between message changes
 // in milliseconds
