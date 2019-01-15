@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "https://www.youtube.com/watch?v=LdbNPe0n8c8", name: "Duty & Honor"},
+	{ogg: "dutyhonor.ogg", name: "Duty & Honor"},
 ];
 
 // Random music order?
